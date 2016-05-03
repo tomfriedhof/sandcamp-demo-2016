@@ -1,0 +1,7 @@
+name = My Cool Module
+description = Provides an area handler for views
+
+core = 7.x
+
+dependencies[] = views
+dependencies[] = xautoload (>= 7.x-5.0)
